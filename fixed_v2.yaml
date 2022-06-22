@@ -21,4 +21,4 @@ spec:
       name: classifier
       type: MODEL
     name: default
-    replicas: 3
+    replicas: 1
